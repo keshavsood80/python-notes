@@ -1,0 +1,18 @@
+2024-12-30 18:29:16-root-DEBUG-This is a debug message
+2024-12-30 18:29:16-root-INFO-This is an info message
+2024-12-30 18:29:16-root-WARNING-This is a warning message
+2024-12-30 18:29:16-root-ERROR-This is an error message
+2024-12-30 18:29:16-root-CRITICAL-This is a critical message
+2024-12-30 20:35:10-ArithmeticAPP-DEBUG-Subtracting 20- 10 = 10
+2024-12-30 20:35:10-ArithmeticAPP-DEBUG-Multiplying 10 * 15 = 150
+2024-12-30 20:35:10-ArithmeticAPP-DEBUG-Dividing 15 / 10 = 1.5
+2024-12-30 20:36:37-ArithmeticAPP-DEBUG-Subtracting 20- 10 = 10
+2024-12-30 20:36:37-ArithmeticAPP-DEBUG-Multiplying 10 * 15 = 150
+2024-12-30 20:36:37-ArithmeticAPP-DEBUG-Dividing 15 / 10 = 1.5
+2024-12-30 20:38:40-ArithmeticAPP-DEBUG-Subtracting 20- 10 = 10
+2024-12-30 20:38:40-ArithmeticAPP-DEBUG-Multiplying 10 * 15 = 150
+2024-12-30 20:38:40-ArithmeticAPP-DEBUG-Dividing 15 / 10 = 1.5
+2024-12-30 20:40:40-ArithmeticAPP-DEBUG-Adding 10+20 = 30
+2024-12-30 20:40:40-ArithmeticAPP-DEBUG-Subtracting 20- 10 = 10
+2024-12-30 20:40:40-ArithmeticAPP-DEBUG-Multiplying 10 * 15 = 150
+2024-12-30 20:40:40-ArithmeticAPP-DEBUG-Dividing 15 / 10 = 1.5
