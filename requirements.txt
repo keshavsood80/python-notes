@@ -1,0 +1,9 @@
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+bs4
+requests
+flask
+kagglehub

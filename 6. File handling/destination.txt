@@ -1,0 +1,7 @@
+this is new content
+previous content is erased
+because it's Overwriting modeAppend mode taken place
+Append mode taken place! 
+This is first line
+This is second line
+This is third line
